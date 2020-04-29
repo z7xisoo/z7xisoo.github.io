@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{"4EvU":function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),o=n.n(a);t.default=function(e){e.data;return o.a.createElement("div",{className:"home",style:{height:"300px"}},"首页-z7xisoo 666")}}}]);
+//# sourceMappingURL=component---src-pages-home-index-js-37a0b97258bf5428d6e2.js.map
