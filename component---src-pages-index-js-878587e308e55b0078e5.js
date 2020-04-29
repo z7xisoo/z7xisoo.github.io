@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[8,7],{"4EvU":function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),u=n.n(a);t.default=function(e){e.data;return u.a.createElement("div",{className:"home",style:{height:"300px"}},"首页-z7xisoo")}},RXBc:function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),u=n.n(a),c=n("Bl7J"),l=n("4EvU");t.default=function(e){e.data;return u.a.createElement(c.a,null,u.a.createElement(l.default,null))}}}]);
-//# sourceMappingURL=component---src-pages-index-js-878587e308e55b0078e5.js.map
