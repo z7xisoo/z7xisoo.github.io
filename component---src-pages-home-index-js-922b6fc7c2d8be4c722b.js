@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{"4EvU":function(e,a,t){"use strict";t.r(a);var n=t("q1tI"),i=t.n(n),r=t("WS+k");a.default=function(e){e.data;return i.a.createElement("div",{className:"home",style:{height:"300px"}},"首页-z7xisoo 666",i.a.createElement("div",{className:"anime-787"},"0909999"),i.a.createElement(r.Shake,{h:5,v:5,r:3,dur:300,int:10,max:100,fixed:!0,fixedStop:!1,freez:!1},i.a.createElement("span",null,"<Shake />")))}}}]);
+//# sourceMappingURL=component---src-pages-home-index-js-922b6fc7c2d8be4c722b.js.map
