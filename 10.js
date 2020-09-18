@@ -1,2 +1,0 @@
-(window.webpackJsonpcommon=window.webpackJsonpcommon||[]).push([[10],{87:function(t,e,n){"use strict";n.r(e);var i=function(){var t=this.$createElement;return(this._self._c||t)("div",{staticClass:"interesting"},[this._v("interesting")])};i._withStripped=!0;var s={name:"Interesting",computed:{},watch:{},data:()=>({}),mounted(){},methods:{}},o=n(0),r=Object(o.a)(s,i,[],!1,null,null,null);r.options.__file="src/modules/interesting/index.vue";e.default=r.exports}}]);
-//# sourceMappingURL=10.js.map
